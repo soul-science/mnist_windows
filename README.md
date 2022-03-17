@@ -1,0 +1,2 @@
+# mnist_windows
+使用numpy编写的BP神经网络(DBN)来进行手写数字的识别，并且使用python的tkinter编写了GUI，可以查看可视化操作BP神经网络的设置，检测模型的实时训练和进行手写数字的识别。
